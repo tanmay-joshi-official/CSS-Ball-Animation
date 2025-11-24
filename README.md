@@ -7,7 +7,7 @@ This mini project helped me understand how motion works in real UI elements.
 
 ## 🔍 Preview
 
-https://github.com/user-attachments/assets/ead5073c-039f-4d36-9d36-7bec5bae59de
+[![Bounce Animation Project preview](e2d5a794-aef4-4027-bc02-ec988112c577.png)](https://github.com/user-attachments/assets/ead5073c-039f-4d36-9d36-7bec5bae59de)
 
 ---
 
